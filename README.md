@@ -1,0 +1,2 @@
+# risto-life
+GitHub Pages
